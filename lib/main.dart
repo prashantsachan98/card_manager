@@ -1,6 +1,7 @@
 //import 'dart:html';
 import 'package:web/data.dart';
 import 'package:web/widgets/Card.dart';
+import 'package:web/widgets/expense.dart';
 import './widgets/header.dart';
 import 'package:flutter/material.dart';
 
@@ -44,7 +45,7 @@ class MyHomePage extends StatelessWidget {
                 child: Container(
               child: Cards(),
             )),
-            Expanded(child: Container())
+            Expanded(child: Expense())
           ],
         ),
       ),

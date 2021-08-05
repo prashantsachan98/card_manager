@@ -1,7 +1,7 @@
 
-# Card manger 
+# Card manager 
 
-A beautiful flutter ui for managing your card and expenses
+A beautiful flutter ui for managing your cards and expenses
 
 
 
